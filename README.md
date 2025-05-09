@@ -6,9 +6,9 @@ Using the above data companies can then outperform the competition by developing
 <a href= "https://github.com/TrieuTuanVi/KMEANS_ALGORITHM/blob/main/knn_data.csv">Dataset</a>
 
 **Data dictionary**:
-- **ID**
+| **ID** |
   * numerical
-  * unique identifier of each customer
+  * unique identifier of each customer |
 - **Sex**
   * categrical
   * **0**: male, **1**: female
