@@ -3,6 +3,7 @@ Using the above data companies can then outperform the competition by developing
 
 ## 📂 Dataset: 
 
+ <a href= "https://github.com/TrieuTuanVi/KMEANS_ALGORITHM/blob/main/knn_data.csv">Dataset</a>
 **Data dictionary**:
 - **ID**
   * numerical
