@@ -6,16 +6,21 @@ Using the above data companies can then outperform the competition by developing
 <a href= "https://github.com/TrieuTuanVi/KMEANS_ALGORITHM/blob/main/knn_data.csv">Dataset</a>
 
 **Data dictionary**:
-| **Fields** | **Features** |
-|---------------------------|
-| **ID** |* numerical
-  * unique identifier of each customer |
-- **Sex**
-  * categrical
-  * **0**: male, **1**: female
-- **Marital status**
-  * categorical
-  * **0**: single, **1**: non-single (divorced, separated, married, widowed)
+
+| Value | Customer Group      |
+|-------|----------------------|
+| 1     | Basic Service        |
+| 2     | E-Service            |
+| 3     | Plus Service         |
+| 4     | Total Service        |
+
+
+
+| **Fields**       | **Features**                                                                           |
+|------------------|----------------------------------------------------------------------------------------|
+|**ID**            |* numerical * unique identifier of each customer                                        |
+|**Sex**           |* categrical * **0**: male, **1**: female                                               |
+|**Marital status**|* categorical * **0**: single, **1**: non-single (divorced, separated, married, widowed)|
 - **Age**
   * numerical
   * age in years
