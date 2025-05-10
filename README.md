@@ -31,4 +31,19 @@ Customer Segmentation is the subdivision of a market into discrete customer grou
 |**Categorical**    | categorical   | **0**: unemployed/unskilled, **1**: skilled employee/official, **2**: management/self-employed/highly qualified employed/officer|
 |**Settlement size**|categorical    | **0**: small city, **1**: mid-sized city, **2**: big city                                                                       | 
 
-* The dataset consists of information about the purchasing behavior of 2,000 individuals from a given area when entering a physical ‘FMCG’ store. All data has been collected through the loyalty cards they use at checkout. The data has been preprocessed and there are no missing values. In addition, the volume of the dataset has been restricted and anonymised to protect the privacy of the customers. 						
+* The dataset consists of information about the purchasing behavior of 2,000 individuals from a given area when entering a physical ‘FMCG’ store. All data has been collected through the loyalty cards they use at checkout. The data has been preprocessed and there are no missing values. In addition, the volume of the dataset has been restricted and anonymised to protect the privacy of the customers.
+
+## 📚 Introduction to DBSCAN
+
+**DBSCAN** is a density-based clustering algorithm that allows detecting clusters of arbitrary shapes and identifying noise points.
+
+How it works:
+- **Core Point**: A point is considered a core point if there are at least minPts points within its radius ε.
+- **Reachable Point**: From a core point, DBSCAN will expand to points within ε and continue to check whether those points are core points.
+- **Border Point**: Points within the ε region of the core point but do not have enough neighbors to become core points.
+- **Noise**: Points that do not belong to any cluster because they are not within ε of any core point.
+- **Iterative process**: When the current cluster cannot be expanded further, the algorithm moves to the next unvisited point and starts the check again from the beginning.
+
+Result:
+- Clusters of densely connected points are created.
+- Automatically detects noise points without specifying the number of clusters in advance.
