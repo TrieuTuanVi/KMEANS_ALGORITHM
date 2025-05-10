@@ -33,6 +33,8 @@ Customer Segmentation is the subdivision of a market into discrete customer grou
 
 * The dataset consists of information about the purchasing behavior of 2,000 individuals from a given area when entering a physical ‘FMCG’ store. All data has been collected through the loyalty cards they use at checkout. The data has been preprocessed and there are no missing values. In addition, the volume of the dataset has been restricted and anonymised to protect the privacy of the customers.
 
+---
+
 ## 📚 Introduction to DBSCAN
 
 **DBSCAN** is a density-based clustering algorithm that allows detecting clusters of arbitrary shapes and identifying noise points.
@@ -47,3 +49,22 @@ How it works:
 Result:
 - Clusters of densely connected points are created.
 - Automatically detects noise points without specifying the number of clusters in advance.
+
+---
+
+## 🛠️ Steps to implement K-Means algorithm:
+
+- Collect data from suitable sources (CSV, Excel, etc.).
+- Preprocess data: handle missing values, standardize data (StandardScaler).
+
+  ![image](https://github.com/user-attachments/assets/5a7618aa-1ef0-4630-82e5-5e50e1f89783)
+
+- Select appropriate features for clustering.
+- Determine the number of clusters k using Elbow/ Silhouette method.
+
+
+  
+- Train K-Means model with the selected number of clusters.
+- Assign cluster labels to each data point.
+- Visualize clustering results (using matplotlib or seaborn).
+- Analyze clusters and draw insights from each group.
