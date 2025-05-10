@@ -1,6 +1,4 @@
-# Project Machine Learning: KMEANS ALGORITHM - CUSTOMER SEGMENTATION  
-
-                        👥👤👥👤
+# Project Machine Learning: 👤👥KMEANS ALGORITHM - CUSTOMER SEGMENTATION 👥👤
 
 Using the above data companies can then outperform the competition by developing uniquely appealing products and services
 
