@@ -62,8 +62,8 @@ Result:
 - Select appropriate features for clustering.
 - Determine the number of clusters k using Elbow/ Silhouette method.
 
+![image](https://github.com/user-attachments/assets/2be5b1d0-0e2b-4ab6-8774-f4af94f49fc5)
 
-  
 - Train K-Means model with the selected number of clusters.
 - Assign cluster labels to each data point.
 - Visualize clustering results (using matplotlib or seaborn).
