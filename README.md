@@ -83,3 +83,8 @@ The above graph illustrates the results of clustering data using the DBSCAN (Den
 - DBSCAN is well suited to detecting clusters with complex shapes and removing noise without pre-specifying the number of clusters.
 
 This graph helps visualize the natural cluster structure in customer data, supporting the development of appropriate segmentation strategies in business.
+
+---
+## Conclusion
+
+The application of the DBSCAN algorithm in the project has helped to effectively detect clusters of potential customers based on age and income, while eliminating inappropriate noise points, thereby helping businesses better understand market segments and optimize customer approach strategies.
