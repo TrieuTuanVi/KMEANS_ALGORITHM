@@ -59,7 +59,7 @@ Result:
 
 ---
 
-## 🛠️ Steps to implement K-Means algorithm:
+## ⚙️ Steps to implement K-Means algorithm:
 
 - Collect data from suitable sources (CSV, Excel, etc.).
 - Preprocess data: handle missing values, standardize data (StandardScaler).
