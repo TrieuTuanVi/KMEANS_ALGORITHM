@@ -1,5 +1,5 @@
 # Project Machine Learning: KMEANS ALGORITHM - CUSTOMER SEGMENTATION 👥👥👥
-This project will use the data companies can then outperform the competition by developing uniquely appealing products and services by Python language. 
+This project aims to leverage company data to enable the development of uniquely appealing products and services, allowing them to outperform their competitors, all implemented using the Python programming language.
 
 ---
 
