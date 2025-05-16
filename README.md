@@ -51,6 +51,13 @@ Result:
 - Automatically detects noise points without specifying the number of clusters in advance.
 
 ---
+## 🛠️ Technology used
+
+- **Programming language**:  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) Python: – a powerful, flexible and popular language in the field of data science and machine learning.
+
+- **Analysis & visualization tools**: [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) Jupyter Notebook:  – an interactive environment that allows writing code, displaying charts and annotating explanatory notes in the same interface, effectively supporting the process of exploring and presenting data.
+
+---
 
 ## 🛠️ Steps to implement K-Means algorithm:
 
