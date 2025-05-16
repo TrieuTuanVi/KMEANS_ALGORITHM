@@ -1,4 +1,4 @@
-# [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) Jupyter Notebook: Project POython -  Machine Learning: KMEANS ALGORITHM - CUSTOMER SEGMENTATION 👥👥👥
+# [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) Project Jupyter Notebook -  Machine Learning: KMEANS ALGORITHM - CUSTOMER SEGMENTATION 👥👥👥
 This project aims to leverage company data to enable the development of uniquely appealing products and services, allowing them to outperform their competitors, all implemented using the Python programming language.
 
 ---
