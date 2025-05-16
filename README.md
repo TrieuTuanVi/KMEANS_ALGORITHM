@@ -68,3 +68,18 @@ Result:
 - Assign cluster labels to each data point.
 - Visualize clustering results (using matplotlib or seaborn).
 - Analyze clusters and draw insights from each group.
+
+---
+## ✅ Result
+
+![image](https://github.com/user-attachments/assets/bbeeaca8-c7a6-4a86-b362-a13f92452df0)
+
+
+The above graph illustrates the results of clustering data using the DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm. Each data point represents an individual, with the horizontal axis being age and the vertical axis being annual income. The colors of the points represent different clusters detected by DBSCAN.
+
+- Number of clusters identified: 26
+- Number of noise points: 177
+- Noise points are labeled -1 and do not belong to any cluster, are often scattered and do not have a high enough density to form a cluster.
+- DBSCAN is well suited to detecting clusters with complex shapes and removing noise without pre-specifying the number of clusters.
+
+This graph helps visualize the natural cluster structure in customer data, supporting the development of appropriate segmentation strategies in business.
